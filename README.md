@@ -1,6 +1,4 @@
-<strong>Atividade de Programação Orientada a Objetos: Cálculo de Fatura de Energia</strong>
-
-Este repositório foi criado como parte de uma atividade de Programação Orientada a Objetos, cujo objetivo é praticar o uso de interfaces e classes para representar diferentes tipos de consumidores de energia e calcular o valor da fatura de acordo com o consumo e o tipo de consumidor.
+<strong>Atividade de Orientação a Objetos: Cálculo de Fatura de Energia</strong>
 
 Enunciado do Exercício:
 As concessionárias de energia calculam a fatura de luz com base no tipo de consumidor. De acordo com seu papel na sociedade, o custo do KWh é diferente. Neste sentido, implemente um programa com uma interface IConsumidorEnergia que definirá o método getValorFatura(). Após isso, declare as classes representando os tipos de consumidores para implementar a interface IConsumidorEnergia:
