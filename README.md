@@ -1,4 +1,4 @@
-Atividade de Programação Orientada a Objetos: Cálculo de Fatura de Energia
+<strong>Atividade de Programação Orientada a Objetos: Cálculo de Fatura de Energia</strong>
 Este repositório foi criado como parte de uma atividade de Programação Orientada a Objetos, cujo objetivo é praticar o uso de interfaces e classes para representar diferentes tipos de consumidores de energia e calcular o valor da fatura de acordo com o consumo e o tipo de consumidor.
 
 Enunciado do Exercício:
