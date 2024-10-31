@@ -19,6 +19,7 @@ do {
 
         case 0:
             print "SAINDOOO...\n";
+            break;
 
         case 1:
             print "\n\n RESIDENCIAL \n\n";
